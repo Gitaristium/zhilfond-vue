@@ -1,24 +1,37 @@
-# zhilfond-vue
+# ![Жилфонд](https://github.com/Gitaristium/zhilfond-vue/blob/main/src/assets/images/jilfond-logo.svg)
 
-## Project setup
-```
-npm install
-```
+### «Тестовое задание»
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Это выполненная мною работа по тестовому заданию на вакансию Frontend-разработчик
+\
+C заданием можно ознакомиться [здесь](https://github.com/Gitaristium/zhilfond-vue/blob/main/src/assets/images/test-job-frontend.pdf)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Собрал две версии на [REACT](https://github.com/Gitaristium/zhilfond-react/) и на VUE
 
-### Lints and fixes files
-```
-npm run lint
-```
+[Тык, чтобы открыть рабочий VUE-билд](https://gitaristium.github.io/zhilfond-vue/)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Тык, чтобы открыть рабочий REACT-билд](https://gitaristium.github.io/zhilfond-react/)
+
+### Десктопная версия
+
+![](https://github.com/Gitaristium/zhilfond-vue/blob/main/src/assets/images/screenshot.png?raw=true)
+
+## Доступные команды
+
+В каталоге проекта вы можете запустить:
+
+##### `npm install`
+
+Устанавливает все зависимости для приложения.
+
+##### `npm run serve`
+
+Запускает приложение в режиме разработки.\
+Откройте [http://localhost:3000](http://localhost:3000) для просмотра в браузере.
+
+##### `npm run build`
+
+Собирает приложение в папку `build`.\
+Корректно подключает React в режиме production и оптимизирует сборку для лучшей производительности.
+
+Сборка минифицирована, а имена файлов включают хэши.
